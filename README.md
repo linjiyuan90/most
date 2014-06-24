@@ -1,8 +1,8 @@
 **Most(More object-oriendted style STL)** is a library which wraps `STL` to make it more `object-oriented style`.
 
-# status
+# Status
 * it's still in planing
-* I'll add it little by little, :-)
+* I'll add it little by little :-)
 
 # Examples
 ```
